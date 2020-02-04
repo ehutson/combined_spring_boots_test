@@ -1,5 +1,7 @@
 # combined_spring_boots_test
 
+See the build.gradle files in each of the projects and DemoApplication in combined for the goodies about how this is done.
+
 To build combined,
 
 ```
